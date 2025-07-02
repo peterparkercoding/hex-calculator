@@ -1,14 +1,8 @@
-# 🔢 HexCalculator.org — Free Online Hexadecimal Conversion & Calculation Tools
+# 🔢 Hex Calculator — Free Online Hexadecimal Conversion & Calculation Tools
 
 Welcome to **[HexCalculator.org](https://hexcalculator.org/)** — a modern, fast, and SEO-optimized web platform offering powerful tools for hexadecimal conversions, calculations, and encodings. This project is developed to help programmers, students, engineers, web designers, and cybersecurity professionals perform hex-related tasks with speed and accuracy.
 
 Whether you're debugging low-level code, converting memory addresses, handling Base64 encoding, or analyzing color codes, this site provides a full suite of tools you can access instantly without installation.
-
----
-
-## 🌐 Website URL
-
-👉 [https://hexcalculator.org/](https://hexcalculator.org/)
 
 ---
 
@@ -73,7 +67,7 @@ HexCalculator.org is built for:
 
 ## 👨‍💻 About the Creator
 
-**Peter Parker** is the creator of [HexCalculator.org](https://hexcalculator.org/), a passionate developer and web enthusiast focused on building niche tools that solve technical problems and enhance productivity. With a deep interest in web utilities and user-friendly experiences, Peter built this site to serve developers, learners, and digital professionals around the world.
+**Peter Parker** is the creator of [HexCalculator.org], a passionate developer and web enthusiast focused on building niche tools that solve technical problems and enhance productivity. With a deep interest in web utilities and user-friendly experiences, Peter built this site to serve developers, learners, and digital professionals around the world.
 
 This project is part of Peter’s mission to deliver free, fast-loading, mobile-friendly tools that empower users to understand and work with hexadecimal and other data formats easily.
 
