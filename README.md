@@ -72,7 +72,7 @@ HexCalculator.org is built for:
 
 ## 👨‍💻 About the Creator
 
-**Peter Parker** is the creator of [HexCalculator.org], a passionate developer and web enthusiast focused on building niche tools that solve technical problems and enhance productivity. With a deep interest in web utilities and user-friendly experiences, Peter built this site to serve developers, learners, and digital professionals around the world.
+**Peter Parker** is the creator of HexCalculator.org, a passionate developer and web enthusiast focused on building niche tools that solve technical problems and enhance productivity. With a deep interest in web utilities and user-friendly experiences, Peter built this site to serve developers, learners, and digital professionals around the world.
 
 This project is part of Peter’s mission to deliver free, fast-loading, mobile-friendly tools that empower users to understand and work with hexadecimal and other data formats easily.
 
