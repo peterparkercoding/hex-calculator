@@ -4,7 +4,7 @@ Welcome to **[HexCalculator.org](https://hexcalculator.org/)** — a modern, fas
 
 Whether you're debugging low-level code, converting memory addresses, handling Base64 encoding, or analyzing color codes, this site provides a full suite of tools you can access instantly without installation.
 
-<img src="https://raw.githubusercontent.com/peterparkercoding/hex-calculator/refs/heads/main/hex-calculator.webp" alt="HexCalculator"/>
+<center><img src="https://raw.githubusercontent.com/peterparkercoding/hex-calculator/refs/heads/main/hex-calculator.webp" alt="HexCalculator"/></center>
 ---
 
 ## ✨ Key Features
@@ -43,6 +43,10 @@ Here’s what makes HexCalculator.org a go-to resource for working with hexadeci
   Translate hex digits into digital display format — helpful for embedded systems projects.
 
 ---
+
+## How This Hex Calculator Works?
+
+<center><img src="https://raw.githubusercontent.com/peterparkercoding/hex-calculator/refs/heads/main/hexadecimal-calculator-infographic.webp"/></center>
 
 ## 🎯 Who Is It For?
 
