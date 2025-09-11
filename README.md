@@ -112,10 +112,6 @@ We welcome community contributions to improve tool accuracy, performance, and co
 4. Test your changes locally
 5. Submit a Pull Request with a clear description
 
-## 🔒 License
-
-This project is open-source and available under the **MIT License**. You are free to use, modify, and distribute it for personal or commercial projects.
-
 ---
 
 ## 📣 Stay Connected
